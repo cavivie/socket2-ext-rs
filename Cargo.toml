@@ -4,8 +4,8 @@ version = "0.1.0"
 edition = "2021"
 authors = ["cavivie <cavivie@gmail.com>"]
 license = "MIT"
-repository = "https://github.com/cavivie/socket2-ext"
-homepage = "https://github.com/cavivie/socket2-ext"
+repository = "https://github.com/cavivie/socket2-ext-rs"
+homepage = "https://github.com/cavivie/socket2-ext-rs"
 description = """
 An socket2 extension contains utilities for handling networking
 sockets with a maximal amount of configuration possible intended.
