@@ -7,6 +7,7 @@ pub struct BindDeviceOption<'a> {
     /// Device name.
     name: Cow<'a, str>,
     /// Device socket domain.
+    #[allow(dead_code)]
     domain: Domain,
 }
 
